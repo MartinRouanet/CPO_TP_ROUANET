@@ -1,5 +1,5 @@
 /*
- * TP0 Exercice 1
+ * TP0 Exercice 2
  * TDC - Groupe 1
  * Martin Rouanet
  * 17 Septembre 2024
